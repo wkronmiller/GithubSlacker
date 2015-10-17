@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Password files
+github_credentials.py
